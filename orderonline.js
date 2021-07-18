@@ -2018,7 +2018,7 @@ var maskProduct = new productViewModel();
 maskProduct.idProduct = 1;
 maskProduct.description = "Disposable Medical Isolation Mask";
 maskProduct.pictureUrl = cdnUrl + "assets/images/products/cart/0.png";
-maskProduct.unitPrice = 850;
+maskProduct.unitPrice = 15;
 var saveOrderDto = (function () {
     function saveOrderDto() {
     }
